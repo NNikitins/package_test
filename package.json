@@ -12,7 +12,7 @@
   },
   "publishConfig": {
     "@nnikitins:registry": "https://npm.pkg.github.com"
-  }
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
