@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/NNikitins/package_test.git"
   },
+  "publishConfig": {
+    "@nnikitins:registry": "https://npm.pkg.github.com"
+  }
   "author": "",
   "license": "ISC",
   "bugs": {
